@@ -15,3 +15,7 @@ The main purpose is here.
 Deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+### Copyright
+
+2022 Git.Zozuliuk
