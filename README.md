@@ -6,6 +6,7 @@ This is a simple website.
 
 This is an example is to show different parts of the Git repository.
 Adding a line for rebasing example.
+More changes for myfeature branch.
 
 ## Purpose
 
