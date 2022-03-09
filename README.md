@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2022 Git.Zozuliuk
+2022 Git.Zozuliuk. All right reserved.
